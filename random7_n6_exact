@@ -1,0 +1,323 @@
+[1] ner train1:7.3830, rc_train1:1708.9121, ner train2:5.2987, rc_train2:366.4213, info:0.0726
+[1] ner test1:3.7796, rc test1:10.6088, ner test2:3.0992, rc test2:3.1880, info:0.0086
+[1] precision:0.6207, recall:0.5736, f1:0.5962
+[*] saved best model!
+[2] ner train1:3.6899, rc_train1:11.0168, ner train2:2.9782, rc_train2:2.9620, info:0.0095
+[2] ner test1:3.4027, rc test1:11.6856, ner test2:2.6331, rc test2:2.5426, info:0.0075
+[2] precision:0.6873, recall:0.6286, f1:0.6567
+[*] saved best model!
+[3] ner train1:3.3275, rc_train1:10.0201, ner train2:2.5809, rc_train2:2.4329, info:0.0082
+[3] ner test1:3.1602, rc test1:9.4128, ner test2:2.3938, rc test2:2.2510, info:0.0072
+[3] precision:0.7121, recall:0.6814, f1:0.6964
+[*] saved best model!
+[4] ner train1:3.1116, rc_train1:8.6838, ner train2:2.3222, rc_train2:2.1460, info:0.0132
+[4] ner test1:3.1147, rc test1:8.2636, ner test2:2.2949, rc test2:2.0494, info:0.0122
+[4] precision:0.7454, recall:0.7264, f1:0.7358
+[*] saved best model!
+[5] ner train1:2.9707, rc_train1:7.8050, ner train2:2.1474, rc_train2:1.9805, info:0.0233
+[5] ner test1:3.0116, rc test1:7.8692, ner test2:2.1800, rc test2:1.9692, info:0.0079
+[5] precision:0.7653, recall:0.7026, f1:0.7326
+[6] ner train1:2.8692, rc_train1:7.2439, ner train2:2.0332, rc_train2:1.8499, info:0.0123
+[6] ner test1:2.9053, rc test1:7.3678, ner test2:2.1148, rc test2:1.8338, info:0.0118
+[6] precision:0.7773, recall:0.7097, f1:0.7420
+[*] saved best model!
+[7] ner train1:2.7471, rc_train1:6.9738, ner train2:1.9083, rc_train2:1.7113, info:0.0090
+[7] ner test1:2.8543, rc test1:6.9701, ner test2:2.0918, rc test2:1.7876, info:0.0073
+[7] precision:0.7835, recall:0.7273, f1:0.7543
+[*] saved best model!
+[8] ner train1:2.6470, rc_train1:6.7892, ner train2:1.7947, rc_train2:1.6075, info:0.0089
+[8] ner test1:2.8003, rc test1:6.5540, ner test2:2.0658, rc test2:1.7933, info:0.0087
+[8] precision:0.7429, recall:0.7783, f1:0.7602
+[*] saved best model!
+[9] ner train1:2.5768, rc_train1:6.7416, ner train2:1.6977, rc_train2:1.5148, info:0.0334
+[9] ner test1:2.7938, rc test1:6.9350, ner test2:2.0741, rc test2:1.7095, info:0.0241
+[9] precision:0.7605, recall:0.7751, f1:0.7677
+[*] saved best model!
+[10] ner train1:2.5126, rc_train1:6.7844, ner train2:1.6227, rc_train2:1.4447, info:0.0244
+[10] ner test1:2.7353, rc test1:7.2928, ner test2:2.0034, rc test2:1.6770, info:0.0168
+[10] precision:0.8305, recall:0.7125, f1:0.7670
+[11] ner train1:2.4927, rc_train1:6.7860, ner train2:1.6006, rc_train2:1.4347, info:0.0327
+[11] ner test1:2.7700, rc test1:7.1537, ner test2:2.0313, rc test2:1.6555, info:0.0121
+[11] precision:0.7992, recall:0.7435, f1:0.7704
+[*] saved best model!
+[12] ner train1:2.4548, rc_train1:6.7253, ner train2:1.5661, rc_train2:1.3969, info:0.0213
+[12] ner test1:2.7636, rc test1:6.8152, ner test2:2.0365, rc test2:1.6716, info:0.0286
+[12] precision:0.8021, recall:0.7677, f1:0.7845
+[*] saved best model!
+[13] ner train1:2.4271, rc_train1:6.7673, ner train2:1.5185, rc_train2:1.3389, info:0.0303
+[13] ner test1:2.7490, rc test1:6.7851, ner test2:1.9737, rc test2:1.6064, info:0.0106
+[13] precision:0.7815, recall:0.7707, f1:0.7761
+[14] ner train1:2.3800, rc_train1:6.7418, ner train2:1.4656, rc_train2:1.2936, info:0.0119
+[14] ner test1:2.7221, rc test1:7.1177, ner test2:1.9703, rc test2:1.5806, info:0.0123
+[14] precision:0.7947, recall:0.7787, f1:0.7866
+[*] saved best model!
+[15] ner train1:2.3417, rc_train1:6.7203, ner train2:1.4004, rc_train2:1.2277, info:0.0127
+[15] ner test1:2.7873, rc test1:7.0053, ner test2:1.9824, rc test2:1.5396, info:0.0141
+[15] precision:0.8085, recall:0.7857, f1:0.7969
+[*] saved best model!
+[16] ner train1:2.3063, rc_train1:6.6807, ner train2:1.3423, rc_train2:1.1656, info:0.0140
+[16] ner test1:2.6970, rc test1:7.2058, ner test2:1.9931, rc test2:1.5323, info:0.0126
+[16] precision:0.8043, recall:0.7959, f1:0.8001
+[*] saved best model!
+[17] ner train1:2.2676, rc_train1:6.7392, ner train2:1.2877, rc_train2:1.1275, info:0.0143
+[17] ner test1:2.6986, rc test1:7.2877, ner test2:1.9907, rc test2:1.5031, info:0.0106
+[17] precision:0.8255, recall:0.7789, f1:0.8015
+[*] saved best model!
+[18] ner train1:2.2478, rc_train1:6.7308, ner train2:1.2613, rc_train2:1.0981, info:0.0162
+[18] ner test1:2.7147, rc test1:7.1875, ner test2:1.9677, rc test2:1.5171, info:0.0085
+[18] precision:0.8031, recall:0.7927, f1:0.7979
+[19] ner train1:2.2015, rc_train1:6.7015, ner train2:1.2079, rc_train2:1.0456, info:0.0189
+[19] ner test1:2.7013, rc test1:7.1983, ner test2:2.0187, rc test2:1.4901, info:0.0170
+[19] precision:0.8277, recall:0.7919, f1:0.8094
+[*] saved best model!
+[20] ner train1:2.1964, rc_train1:6.7577, ner train2:1.1891, rc_train2:1.0319, info:0.0313
+[20] ner test1:2.7698, rc test1:7.0325, ner test2:1.9900, rc test2:1.5126, info:0.0231
+[20] precision:0.8062, recall:0.8027, f1:0.8044
+[21] ner train1:2.1721, rc_train1:6.6273, ner train2:1.1618, rc_train2:1.0188, info:0.0208
+[21] ner test1:2.7038, rc test1:7.0217, ner test2:1.9704, rc test2:1.4634, info:0.0109
+[21] precision:0.8355, recall:0.7842, f1:0.8091
+[22] ner train1:2.1452, rc_train1:6.7675, ner train2:1.1311, rc_train2:0.9842, info:0.0195
+[22] ner test1:2.7127, rc test1:6.8295, ner test2:2.1535, rc test2:1.5836, info:0.0220
+[22] precision:0.7826, recall:0.8363, f1:0.8085
+[23] ner train1:2.1259, rc_train1:6.6733, ner train2:1.1033, rc_train2:0.9496, info:0.0559
+[23] ner test1:2.7084, rc test1:7.2402, ner test2:2.0805, rc test2:1.5537, info:0.0152
+[23] precision:0.7941, recall:0.8200, f1:0.8068
+[24] ner train1:2.1205, rc_train1:6.7919, ner train2:1.0829, rc_train2:0.9356, info:0.0161
+[24] ner test1:2.7121, rc test1:7.3490, ner test2:2.0106, rc test2:1.5330, info:0.0110
+[24] precision:0.8364, recall:0.7917, f1:0.8135
+[*] saved best model!
+[25] ner train1:2.0933, rc_train1:6.7155, ner train2:1.0500, rc_train2:0.8986, info:0.0129
+[25] ner test1:2.7206, rc test1:6.9124, ner test2:2.0843, rc test2:1.5257, info:0.0261
+[25] precision:0.8260, recall:0.8178, f1:0.8219
+[*] saved best model!
+[26] ner train1:2.0623, rc_train1:6.6535, ner train2:1.0162, rc_train2:0.8727, info:0.3574
+[26] ner test1:2.7132, rc test1:7.2205, ner test2:2.0646, rc test2:1.4837, info:0.0107
+[26] precision:0.8283, recall:0.8175, f1:0.8229
+[*] saved best model!
+[27] ner train1:2.0297, rc_train1:6.6862, ner train2:0.9803, rc_train2:0.8453, info:0.0277
+[27] ner test1:2.7059, rc test1:7.2715, ner test2:2.0835, rc test2:1.4873, info:0.0275
+[27] precision:0.8129, recall:0.8247, f1:0.8188
+[28] ner train1:2.0149, rc_train1:6.7085, ner train2:0.9601, rc_train2:0.8353, info:0.0168
+[28] ner test1:2.6611, rc test1:7.0432, ner test2:2.0963, rc test2:1.5079, info:0.0097
+[28] precision:0.8279, recall:0.8144, f1:0.8211
+[29] ner train1:1.9979, rc_train1:6.6584, ner train2:0.9428, rc_train2:0.8060, info:0.0211
+[29] ner test1:2.6778, rc test1:6.9573, ner test2:2.0458, rc test2:1.5058, info:0.0143
+[29] precision:0.8172, recall:0.7994, f1:0.8082
+[30] ner train1:1.9814, rc_train1:6.6891, ner train2:0.9170, rc_train2:0.7883, info:0.0268
+[30] ner test1:2.6948, rc test1:6.6645, ner test2:2.0832, rc test2:1.5072, info:0.0213
+[30] precision:0.8002, recall:0.8068, f1:0.8035
+[31] ner train1:1.9793, rc_train1:6.7285, ner train2:0.9168, rc_train2:0.7925, info:0.0238
+[31] ner test1:2.8157, rc test1:7.0627, ner test2:2.2336, rc test2:1.6460, info:0.0206
+[31] precision:0.7690, recall:0.8497, f1:0.8073
+[32] ner train1:1.9615, rc_train1:6.6386, ner train2:0.8924, rc_train2:0.7802, info:0.0742
+[32] ner test1:2.7402, rc test1:7.1401, ner test2:2.1319, rc test2:1.5580, info:0.0130
+[32] precision:0.8093, recall:0.8236, f1:0.8164
+[33] ner train1:1.9586, rc_train1:6.6552, ner train2:0.8907, rc_train2:0.7641, info:0.0256
+[33] ner test1:2.6666, rc test1:7.1461, ner test2:2.1119, rc test2:1.5160, info:0.0208
+[33] precision:0.8152, recall:0.8243, f1:0.8197
+[34] ner train1:1.9437, rc_train1:6.6876, ner train2:0.8655, rc_train2:0.7478, info:0.0168
+[34] ner test1:2.7402, rc test1:6.9496, ner test2:2.1147, rc test2:1.5166, info:0.0221
+[34] precision:0.8214, recall:0.8222, f1:0.8218
+[35] ner train1:1.9309, rc_train1:6.6458, ner train2:0.8410, rc_train2:0.7264, info:0.0288
+[35] ner test1:2.6791, rc test1:6.6888, ner test2:2.1884, rc test2:1.5448, info:0.0131
+[35] precision:0.8322, recall:0.8264, f1:0.8293
+[*] saved best model!
+[36] ner train1:1.9098, rc_train1:6.5969, ner train2:0.8239, rc_train2:0.7106, info:0.0526
+[36] ner test1:2.7130, rc test1:7.2099, ner test2:2.1946, rc test2:1.5215, info:0.0102
+[36] precision:0.8268, recall:0.8344, f1:0.8306
+[*] saved best model!
+[37] ner train1:1.9021, rc_train1:6.6301, ner train2:0.8082, rc_train2:0.7000, info:0.0308
+[37] ner test1:2.6644, rc test1:7.0292, ner test2:2.1331, rc test2:1.5629, info:0.0306
+[37] precision:0.8137, recall:0.8316, f1:0.8225
+[38] ner train1:1.8866, rc_train1:6.6724, ner train2:0.7864, rc_train2:0.6863, info:0.2760
+[38] ner test1:2.7118, rc test1:6.8635, ner test2:2.2062, rc test2:1.5543, info:0.0154
+[38] precision:0.8034, recall:0.8232, f1:0.8132
+[39] ner train1:1.8785, rc_train1:6.5539, ner train2:0.7891, rc_train2:0.6829, info:0.0146
+[39] ner test1:2.6843, rc test1:6.7990, ner test2:2.2481, rc test2:1.5128, info:0.0190
+[39] precision:0.8383, recall:0.8312, f1:0.8347
+[*] saved best model!
+[40] ner train1:1.8611, rc_train1:6.5524, ner train2:0.7683, rc_train2:0.6583, info:0.0190
+[40] ner test1:2.6864, rc test1:7.1625, ner test2:2.2707, rc test2:1.5805, info:0.0159
+[40] precision:0.8403, recall:0.8169, f1:0.8284
+[41] ner train1:1.8602, rc_train1:6.5417, ner train2:0.7533, rc_train2:0.6499, info:0.0206
+[41] ner test1:2.7593, rc test1:6.7988, ner test2:2.2487, rc test2:1.5456, info:0.0131
+[41] precision:0.8267, recall:0.8218, f1:0.8243
+[42] ner train1:1.8554, rc_train1:6.5097, ner train2:0.7436, rc_train2:0.6464, info:0.0303
+[42] ner test1:2.7610, rc test1:6.8150, ner test2:2.1817, rc test2:1.5679, info:0.0145
+[42] precision:0.8300, recall:0.8364, f1:0.8332
+[43] ner train1:1.8404, rc_train1:6.5222, ner train2:0.7300, rc_train2:0.6409, info:0.1905
+[43] ner test1:2.7154, rc test1:7.0136, ner test2:2.2399, rc test2:1.6172, info:0.0162
+[43] precision:0.8332, recall:0.8224, f1:0.8278
+[44] ner train1:1.8267, rc_train1:6.5072, ner train2:0.7104, rc_train2:0.6193, info:0.0173
+[44] ner test1:2.6707, rc test1:6.9136, ner test2:2.2471, rc test2:1.5414, info:0.0089
+[44] precision:0.8328, recall:0.8313, f1:0.8320
+[45] ner train1:1.8195, rc_train1:6.3835, ner train2:0.7010, rc_train2:0.6001, info:0.0134
+[45] ner test1:2.6972, rc test1:6.7882, ner test2:2.3215, rc test2:1.6840, info:0.0124
+[45] precision:0.8129, recall:0.8353, f1:0.8239
+[46] ner train1:1.8038, rc_train1:6.4253, ner train2:0.6769, rc_train2:0.5872, info:0.0766
+[46] ner test1:2.7344, rc test1:6.8798, ner test2:2.2771, rc test2:1.6040, info:0.0199
+[46] precision:0.8147, recall:0.8348, f1:0.8246
+[47] ner train1:1.7993, rc_train1:6.4019, ner train2:0.6688, rc_train2:0.5871, info:0.0292
+[47] ner test1:2.7081, rc test1:6.7910, ner test2:2.2811, rc test2:1.5605, info:0.0109
+[47] precision:0.8301, recall:0.8222, f1:0.8261
+[48] ner train1:1.7864, rc_train1:6.4180, ner train2:0.6605, rc_train2:0.5857, info:0.0186
+[48] ner test1:2.7115, rc test1:6.5048, ner test2:2.3645, rc test2:1.6305, info:0.0164
+[48] precision:0.8060, recall:0.8350, f1:0.8203
+[49] ner train1:1.7782, rc_train1:6.3526, ner train2:0.6542, rc_train2:0.5741, info:0.0188
+[49] ner test1:2.7537, rc test1:7.1125, ner test2:2.2688, rc test2:1.5760, info:0.0103
+[49] precision:0.8344, recall:0.8191, f1:0.8267
+[50] ner train1:1.7593, rc_train1:6.3408, ner train2:0.6394, rc_train2:0.5655, info:0.0157
+[50] ner test1:2.7172, rc test1:6.7193, ner test2:2.3384, rc test2:1.6321, info:0.0074
+[50] precision:0.8219, recall:0.8211, f1:0.8215
+[51] ner train1:1.7532, rc_train1:6.2703, ner train2:0.6187, rc_train2:0.5471, info:0.0094
+[51] ner test1:2.7189, rc test1:6.5988, ner test2:2.4257, rc test2:1.6561, info:0.0083
+[51] precision:0.8114, recall:0.8470, f1:0.8288
+[52] ner train1:1.7420, rc_train1:6.2211, ner train2:0.6004, rc_train2:0.5326, info:0.0148
+[52] ner test1:2.7243, rc test1:6.7751, ner test2:2.4769, rc test2:1.6751, info:0.0082
+[52] precision:0.8243, recall:0.8345, f1:0.8294
+[53] ner train1:1.7265, rc_train1:6.2083, ner train2:0.5925, rc_train2:0.5210, info:0.0124
+[53] ner test1:2.7068, rc test1:6.5892, ner test2:2.3713, rc test2:1.7093, info:0.0101
+[53] precision:0.8092, recall:0.8346, f1:0.8217
+[54] ner train1:1.7098, rc_train1:6.1836, ner train2:0.5884, rc_train2:0.5205, info:0.0105
+[54] ner test1:2.6974, rc test1:6.4555, ner test2:2.3943, rc test2:1.6550, info:0.0082
+[54] precision:0.8257, recall:0.8314, f1:0.8286
+[55] ner train1:1.7038, rc_train1:6.2407, ner train2:0.5798, rc_train2:0.5054, info:0.0130
+[55] ner test1:2.7188, rc test1:6.5571, ner test2:2.4311, rc test2:1.6909, info:0.0088
+[55] precision:0.8419, recall:0.8266, f1:0.8342
+[56] ner train1:1.6911, rc_train1:6.1655, ner train2:0.5558, rc_train2:0.4888, info:0.0158
+[56] ner test1:2.7104, rc test1:6.6355, ner test2:2.4328, rc test2:1.7164, info:0.0099
+[56] precision:0.8343, recall:0.8063, f1:0.8200
+[57] ner train1:1.6866, rc_train1:6.1021, ner train2:0.5590, rc_train2:0.4900, info:0.0235
+[57] ner test1:2.7353, rc test1:6.8494, ner test2:2.4716, rc test2:1.7353, info:0.0080
+[57] precision:0.8237, recall:0.8403, f1:0.8319
+[58] ner train1:1.6789, rc_train1:6.1722, ner train2:0.5547, rc_train2:0.4923, info:0.0151
+[58] ner test1:2.6927, rc test1:6.4610, ner test2:2.4082, rc test2:1.6682, info:0.0270
+[58] precision:0.8197, recall:0.8350, f1:0.8273
+[59] ner train1:1.6848, rc_train1:6.0486, ner train2:0.5422, rc_train2:0.4826, info:0.0266
+[59] ner test1:2.7182, rc test1:6.5955, ner test2:2.4351, rc test2:1.7318, info:0.0134
+[59] precision:0.8446, recall:0.8205, f1:0.8324
+[60] ner train1:1.6578, rc_train1:6.1003, ner train2:0.5303, rc_train2:0.4790, info:0.0115
+[60] ner test1:2.7445, rc test1:6.5487, ner test2:2.5644, rc test2:1.7430, info:0.0074
+[60] precision:0.8139, recall:0.8379, f1:0.8257
+[61] ner train1:1.6586, rc_train1:6.0881, ner train2:0.5311, rc_train2:0.4721, info:0.0299
+[61] ner test1:2.7252, rc test1:6.4583, ner test2:2.5062, rc test2:1.7003, info:0.0104
+[61] precision:0.8212, recall:0.8306, f1:0.8258
+[62] ner train1:1.6502, rc_train1:6.0331, ner train2:0.5222, rc_train2:0.4646, info:0.0188
+[62] ner test1:2.7537, rc test1:6.4138, ner test2:2.4851, rc test2:1.7302, info:0.0072
+[62] precision:0.8304, recall:0.8359, f1:0.8331
+[63] ner train1:1.6378, rc_train1:5.9941, ner train2:0.5047, rc_train2:0.4498, info:0.0107
+[63] ner test1:2.7487, rc test1:6.3576, ner test2:2.5960, rc test2:1.7672, info:0.0135
+[63] precision:0.8095, recall:0.8391, f1:0.8240
+[64] ner train1:1.6261, rc_train1:5.9961, ner train2:0.5049, rc_train2:0.4495, info:0.0240
+[64] ner test1:2.7749, rc test1:6.4124, ner test2:2.5729, rc test2:1.7837, info:0.0078
+[64] precision:0.8302, recall:0.8211, f1:0.8256
+[65] ner train1:1.6251, rc_train1:5.9389, ner train2:0.4935, rc_train2:0.4364, info:0.0279
+[65] ner test1:2.7565, rc test1:6.2792, ner test2:2.5302, rc test2:1.7518, info:0.0180
+[65] precision:0.8263, recall:0.8254, f1:0.8259
+[66] ner train1:1.6121, rc_train1:5.9325, ner train2:0.4930, rc_train2:0.4482, info:0.0127
+[66] ner test1:2.7408, rc test1:6.2807, ner test2:2.6087, rc test2:1.7812, info:0.0071
+[66] precision:0.8212, recall:0.8386, f1:0.8298
+[67] ner train1:1.6135, rc_train1:5.8888, ner train2:0.4769, rc_train2:0.4243, info:0.0136
+[67] ner test1:2.7480, rc test1:6.4375, ner test2:2.6707, rc test2:1.8631, info:0.0066
+[67] precision:0.8146, recall:0.8395, f1:0.8269
+[68] ner train1:1.6022, rc_train1:5.8724, ner train2:0.4689, rc_train2:0.4230, info:0.0078
+[68] ner test1:2.7512, rc test1:6.3983, ner test2:2.6363, rc test2:1.8718, info:0.0066
+[68] precision:0.8257, recall:0.8363, f1:0.8309
+[69] ner train1:1.5965, rc_train1:5.7671, ner train2:0.4654, rc_train2:0.4155, info:0.0111
+[69] ner test1:2.7647, rc test1:6.2205, ner test2:2.6211, rc test2:1.8217, info:0.0066
+[69] precision:0.8151, recall:0.8449, f1:0.8297
+[70] ner train1:1.6008, rc_train1:5.8203, ner train2:0.4702, rc_train2:0.4226, info:0.0105
+[70] ner test1:2.7597, rc test1:6.4043, ner test2:2.6905, rc test2:1.8058, info:0.0063
+[70] precision:0.8350, recall:0.8402, f1:0.8376
+[*] saved best model!
+[71] ner train1:1.5989, rc_train1:5.7756, ner train2:0.4576, rc_train2:0.4178, info:0.0071
+[71] ner test1:2.7985, rc test1:6.4118, ner test2:2.6748, rc test2:1.8537, info:0.0063
+[71] precision:0.8203, recall:0.8499, f1:0.8349
+[72] ner train1:1.5742, rc_train1:5.7830, ner train2:0.4503, rc_train2:0.4134, info:0.0068
+[72] ner test1:2.7388, rc test1:6.4086, ner test2:2.6225, rc test2:1.8598, info:0.0064
+[72] precision:0.8264, recall:0.8255, f1:0.8260
+[73] ner train1:1.5791, rc_train1:5.8025, ner train2:0.4484, rc_train2:0.4096, info:0.0096
+[73] ner test1:2.7258, rc test1:6.1997, ner test2:2.6389, rc test2:1.8126, info:0.0066
+[73] precision:0.8320, recall:0.8340, f1:0.8330
+[74] ner train1:1.5618, rc_train1:5.7170, ner train2:0.4396, rc_train2:0.3986, info:0.0160
+[74] ner test1:2.7495, rc test1:6.2608, ner test2:2.7226, rc test2:1.8642, info:0.0095
+[74] precision:0.8203, recall:0.8401, f1:0.8300
+[75] ner train1:1.5538, rc_train1:5.6532, ner train2:0.4251, rc_train2:0.3869, info:0.0163
+[75] ner test1:2.7175, rc test1:6.2189, ner test2:2.6539, rc test2:1.8705, info:0.0134
+[75] precision:0.8269, recall:0.8314, f1:0.8291
+[76] ner train1:1.5508, rc_train1:5.6680, ner train2:0.4255, rc_train2:0.3883, info:0.0457
+[76] ner test1:2.7647, rc test1:6.0835, ner test2:2.7129, rc test2:1.8495, info:0.0154
+[76] precision:0.8159, recall:0.8439, f1:0.8297
+[77] ner train1:1.5590, rc_train1:5.6864, ner train2:0.4335, rc_train2:0.3959, info:0.0096
+[77] ner test1:2.7880, rc test1:6.1608, ner test2:2.6984, rc test2:1.8593, info:0.0160
+[77] precision:0.8242, recall:0.8472, f1:0.8355
+[78] ner train1:1.5494, rc_train1:5.6614, ner train2:0.4203, rc_train2:0.3796, info:0.0120
+[78] ner test1:2.7500, rc test1:6.2267, ner test2:2.7855, rc test2:1.8720, info:0.0087
+[78] precision:0.8236, recall:0.8358, f1:0.8296
+[79] ner train1:1.5391, rc_train1:5.6567, ner train2:0.4102, rc_train2:0.3829, info:0.0162
+[79] ner test1:2.7642, rc test1:6.0989, ner test2:2.7283, rc test2:1.9691, info:0.0080
+[79] precision:0.8209, recall:0.8190, f1:0.8199
+[80] ner train1:1.5258, rc_train1:5.5878, ner train2:0.4047, rc_train2:0.3766, info:0.0396
+[80] ner test1:2.7659, rc test1:6.2538, ner test2:2.7329, rc test2:1.9123, info:0.0074
+[80] precision:0.8294, recall:0.8382, f1:0.8338
+[81] ner train1:1.5256, rc_train1:5.6484, ner train2:0.4090, rc_train2:0.3764, info:0.0107
+[81] ner test1:2.7492, rc test1:6.1517, ner test2:2.7590, rc test2:1.9070, info:0.0084
+[81] precision:0.8365, recall:0.8313, f1:0.8339
+[82] ner train1:1.5201, rc_train1:5.6230, ner train2:0.3974, rc_train2:0.3719, info:0.0216
+[82] ner test1:2.8129, rc test1:6.1259, ner test2:2.7475, rc test2:1.9190, info:0.0065
+[82] precision:0.8185, recall:0.8302, f1:0.8243
+[83] ner train1:1.5129, rc_train1:5.6290, ner train2:0.3972, rc_train2:0.3667, info:0.0216
+[83] ner test1:2.7655, rc test1:6.2409, ner test2:2.7165, rc test2:1.9217, info:0.0062
+[83] precision:0.8216, recall:0.8334, f1:0.8274
+[84] ner train1:1.5162, rc_train1:5.5550, ner train2:0.3944, rc_train2:0.3683, info:0.0080
+[84] ner test1:2.7576, rc test1:6.0312, ner test2:2.7360, rc test2:2.0003, info:0.0063
+[84] precision:0.8236, recall:0.8324, f1:0.8280
+[85] ner train1:1.5086, rc_train1:5.5213, ner train2:0.3838, rc_train2:0.3605, info:0.0244
+[85] ner test1:2.7627, rc test1:5.9962, ner test2:2.7547, rc test2:1.9735, info:0.0080
+[85] precision:0.8270, recall:0.8281, f1:0.8276
+[86] ner train1:1.5116, rc_train1:5.5154, ner train2:0.3854, rc_train2:0.3599, info:0.0111
+[86] ner test1:2.7885, rc test1:5.7619, ner test2:2.7701, rc test2:1.9316, info:0.1023
+[86] precision:0.8289, recall:0.8263, f1:0.8276
+[87] ner train1:1.4997, rc_train1:5.5230, ner train2:0.3840, rc_train2:0.3632, info:0.0121
+[87] ner test1:2.7702, rc test1:5.9528, ner test2:2.7665, rc test2:1.9658, info:0.0482
+[87] precision:0.8246, recall:0.8359, f1:0.8302
+[88] ner train1:1.5022, rc_train1:5.4848, ner train2:0.3782, rc_train2:0.3601, info:0.0154
+[88] ner test1:2.7856, rc test1:5.9472, ner test2:2.7655, rc test2:1.8937, info:0.0146
+[88] precision:0.8161, recall:0.8349, f1:0.8254
+[89] ner train1:1.4989, rc_train1:5.5228, ner train2:0.3840, rc_train2:0.3553, info:0.0151
+[89] ner test1:2.7576, rc test1:6.0206, ner test2:2.7965, rc test2:1.9723, info:0.0131
+[89] precision:0.8448, recall:0.8395, f1:0.8421
+[*] saved best model!
+[90] ner train1:1.4819, rc_train1:5.4682, ner train2:0.3694, rc_train2:0.3452, info:0.0142
+[90] ner test1:2.7908, rc test1:6.0809, ner test2:2.8144, rc test2:1.9755, info:0.0080
+[90] precision:0.8373, recall:0.8369, f1:0.8371
+[91] ner train1:1.4910, rc_train1:5.4464, ner train2:0.3774, rc_train2:0.3597, info:0.0279
+[91] ner test1:2.7633, rc test1:6.0410, ner test2:2.7869, rc test2:1.9165, info:0.0063
+[91] precision:0.8292, recall:0.8333, f1:0.8312
+[92] ner train1:1.4854, rc_train1:5.4672, ner train2:0.3671, rc_train2:0.3572, info:0.0068
+[92] ner test1:2.8303, rc test1:6.0892, ner test2:2.9097, rc test2:1.9977, info:0.0063
+[92] precision:0.8238, recall:0.8411, f1:0.8323
+[93] ner train1:1.4719, rc_train1:5.4022, ner train2:0.3605, rc_train2:0.3389, info:0.0158
+[93] ner test1:2.7770, rc test1:5.9655, ner test2:2.7642, rc test2:1.9418, info:0.0065
+[93] precision:0.8247, recall:0.8346, f1:0.8296
+[94] ner train1:1.4751, rc_train1:5.4348, ner train2:0.3524, rc_train2:0.3409, info:0.0142
+[94] ner test1:2.7846, rc test1:5.8691, ner test2:2.9306, rc test2:2.0621, info:0.0091
+[94] precision:0.8211, recall:0.8417, f1:0.8313
+[95] ner train1:1.4706, rc_train1:5.3159, ner train2:0.3591, rc_train2:0.3427, info:0.0096
+[95] ner test1:2.8529, rc test1:5.9117, ner test2:2.9633, rc test2:2.0416, info:0.0065
+[95] precision:0.8204, recall:0.8506, f1:0.8352
+[96] ner train1:1.4681, rc_train1:5.3611, ner train2:0.3502, rc_train2:0.3285, info:0.0118
+[96] ner test1:2.8069, rc test1:5.7249, ner test2:2.8573, rc test2:1.9851, info:0.0113
+[96] precision:0.8335, recall:0.8332, f1:0.8333
+[97] ner train1:1.4630, rc_train1:5.2880, ner train2:0.3503, rc_train2:0.3341, info:0.4230
+[97] ner test1:2.7903, rc test1:5.8071, ner test2:2.8156, rc test2:2.0534, info:0.0334
+[97] precision:0.8321, recall:0.8182, f1:0.8251
+[98] ner train1:1.4633, rc_train1:5.3090, ner train2:0.3433, rc_train2:0.3279, info:0.0144
+[98] ner test1:2.8067, rc test1:5.8750, ner test2:2.9838, rc test2:2.0588, info:0.0067
+[98] precision:0.8291, recall:0.8425, f1:0.8358
+[99] ner train1:1.4600, rc_train1:5.3082, ner train2:0.3471, rc_train2:0.3415, info:0.0115
+[99] ner test1:2.7819, rc test1:5.8777, ner test2:2.8859, rc test2:2.0031, info:0.0077
+[99] precision:0.8164, recall:0.8371, f1:0.8266
+[100] ner train1:1.4544, rc_train1:5.3414, ner train2:0.3421, rc_train2:0.3249, info:0.0091
+[100] ner test1:2.8199, rc test1:5.9577, ner test2:3.0000, rc test2:2.0822, info:0.0074
+[100] precision:0.8273, recall:0.8467, f1:0.8369
